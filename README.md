@@ -6,5 +6,9 @@ Hugging Face est une start-up franco-américaine du domaine de l'Intelligence ar
 ### Open Source Models with Hugging Face
 https://learn.deeplearning.ai/courses/open-source-models-hugging-face
 
-# Gradio 
+### Créer jeton API Hugging Face 
 https://huggingface.co/settings/tokens
+
+# Gradio 
+
+

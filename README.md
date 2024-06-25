@@ -9,6 +9,9 @@ https://learn.deeplearning.ai/courses/open-source-models-hugging-face
 
 # Gradio 
 
+Gradio is the fastest way to demo your machine learning model with a friendly web interface so that anyone can use it, anywhere!
+- https://www.gradio.app/
+
 ### Création d'une app gradio 
 - Créer jeton API Hugging Face : https://huggingface.co/settings/tokens
 - Récupérer l'API du model : Model https://huggingface.co/runwayml/stable-diffusion-v1-5 / cliquer sur deploy / selectionner : API_URL = "https://api-inference.huggingface.co/models/runwayml/stable-diffusion-v1-5"
